@@ -1,5 +1,5 @@
 ![amigo-secreto](https://github.com/user-attachments/assets/f4f01da5-932c-4d3f-86d1-ff1d5dadebd2)
-# 🎲 Amigo Secreto (Secret Friend)
+#  Amigo Secreto Challenge
 
 ## 📝 Descripción
 Amigo Secreto es una aplicación web simple que permite a los usuarios:
@@ -16,7 +16,6 @@ Amigo Secreto es una aplicación web simple que permite a los usuarios:
 - HTML5
 - CSS
 - JavaScript
-- Google Fonts (Inter y Merriweather)
 
 ## 📦 Cómo Usar
 1. Abra o archivo `index.html` en su navegador
